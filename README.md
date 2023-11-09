@@ -40,7 +40,8 @@ Print Result:
 print(result): Prints the squared numbers list.
 Output
 
-License
+## License
+
 This code is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to customize and extend this example according to your specific project details and requirements. Include additional sections if needed, such as a description of the task, examples, or additional instructions for users.
